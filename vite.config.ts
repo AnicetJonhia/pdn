@@ -9,9 +9,9 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       manifest: {
-        name: 'My App',
-        short_name: 'App',
-        description: 'My Awesome App',
+        name: 'PriseDeNotes',
+        short_name: 'PDN',
+        description: 'Votre plateforme de prise de notes',
         theme_color: '#ffffff',
         icons: [
           {
